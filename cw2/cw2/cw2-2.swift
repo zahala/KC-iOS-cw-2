@@ -81,10 +81,10 @@ struct cw2_2: View {
               Divider()
               
               HStack{
-              Text("العصر")
+              Text("٣:٢١م")
                       .font(.system(size:35))
                                    Spacer()
-              Text("٣:٢١م")
+              Text("العصر")
                       .font(.system(size:35))
               }.padding()
               Divider()
